@@ -5,7 +5,7 @@ namespace ConsoleApp1
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main1(string[] args)
         {
             string name = "Damiën";
             char surname = 'M';
